@@ -10,6 +10,8 @@ weights
 *.h5
 *.pyc
 *~
+data
+kworkshop
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
